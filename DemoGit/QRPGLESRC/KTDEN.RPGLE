@@ -3,7 +3,7 @@
 000300191127       *                      FUNCION DEL PROGRAMA                        *
 000400191127       *                                                                  *
 000500191127       * Este programa controla si el usuario que accede al servidor FTP  *
-000600191216       * está autorizado o no lo esta                                    *
+000600191216       * está autorizado o no lo esta esta es la cuestion                 *
 000700191127       *                                                                  *
 000800191127       ********************************************************************
 000900191127
